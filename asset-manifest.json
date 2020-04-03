@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kusticoins-app/static/css/main.981f7211.chunk.css",
-    "main.js": "/kusticoins-app/static/js/main.76553618.chunk.js",
-    "main.js.map": "/kusticoins-app/static/js/main.76553618.chunk.js.map",
+    "main.js": "/kusticoins-app/static/js/main.be02fb91.chunk.js",
+    "main.js.map": "/kusticoins-app/static/js/main.be02fb91.chunk.js.map",
     "runtime-main.js": "/kusticoins-app/static/js/runtime-main.f9a91c50.js",
     "runtime-main.js.map": "/kusticoins-app/static/js/runtime-main.f9a91c50.js.map",
     "static/css/2.86df01db.chunk.css": "/kusticoins-app/static/css/2.86df01db.chunk.css",
     "static/js/2.89be5c0b.chunk.js": "/kusticoins-app/static/js/2.89be5c0b.chunk.js",
     "static/js/2.89be5c0b.chunk.js.map": "/kusticoins-app/static/js/2.89be5c0b.chunk.js.map",
     "index.html": "/kusticoins-app/index.html",
-    "precache-manifest.32788818e084eba9c49c705ccacdf018.js": "/kusticoins-app/precache-manifest.32788818e084eba9c49c705ccacdf018.js",
+    "precache-manifest.bd70f7770ab326377f428b02252232be.js": "/kusticoins-app/precache-manifest.bd70f7770ab326377f428b02252232be.js",
     "service-worker.js": "/kusticoins-app/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/kusticoins-app/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/kusticoins-app/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.89be5c0b.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.76553618.chunk.js"
+    "static/js/main.be02fb91.chunk.js"
   ]
 }
