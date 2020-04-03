@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kusticoins-app/precache-manifest.792404089c37fa7d065f09192bbc01eb.js"
+  "/kusticoins-app/precache-manifest.32788818e084eba9c49c705ccacdf018.js"
 );
 
 self.addEventListener('message', (event) => {
